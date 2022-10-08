@@ -43,7 +43,7 @@ global.botname = 'SANWAL 570'
 global.ownername = 'UMAR'
 global.group1 = 'https://chat.whatsapp.com/BBQgiM0adHc1m3wM6fEw5Y'
 global.group2 = 'https://chat.whatsapp.com/BBQgiM0adHc1m3wM6fEw5Y'
-global.packname = 'UNAR BOT INC'
+global.packname = 'UMAR BOT INC'
 global.ytchannel = 'https://www.youtube.com/c/UMARMODS'
 global.monayawal = '100000'
 global.darahawal = '100'
@@ -97,8 +97,8 @@ global.limitawal = {
 }
 global.thumb = fs.readFileSync('./lib/hisoka.jpg')  
 global.bc = fs.readFileSync('./lib/bc.jpg')
-global.visoka = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
-global.vid = { url: 'https://i.imgur.com/LbmTdhf.mp4' }
+global.visoka = { url: 'https://i.imgur.com/PPhWNIe.jpeg' }
+global.vid = { url: 'https://i.imgur.com/PPhWNIe.jpeg' }
 
 //—————「 Set Random Image Menu 」—————//
 
