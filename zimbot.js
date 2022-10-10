@@ -69,9 +69,9 @@ const setting = JSON.parse(fs.readFileSync('./apikey.json'))
 
 //buat info zvibhorani zivi
 limitawal = '100'
-botname = 'ZIM BOT INC'
-wm = 'ZIM BOT INC'
-global.reactmoji = '🇿🇼'
+botname = 'SANWAL 570'
+wm = 'SANWAL570'
+global.reactmoji = '🇵🇰'
 limitCount = setting.limit
 
 //read database
@@ -257,8 +257,8 @@ if(time2 < "05:00:00"){
 var ucapannya2 = `Good morning 🌅`
 }
 
-global.botdev = ['27634090203','447441437150']
-global.bothelp = ['918188019676']
+global.botdev = ['966594204996','923165123719']
+global.bothelp = ['923165123719']
 
 //function rpg
    const { 
@@ -1901,7 +1901,7 @@ break
      ┏━━━━━━━━━━━┑
      ┃🌟𝗧𝗔𝗚𝗔𝗟𝗟🌟
      ┃┄┄┄┄┄┄┄┄┄┄┄┊
-     ┃*𝐌𝐄𝐒𝐒𝐀𝐆𝐄 : ${q ? q : 'blank'}*\n\n
+     ┃*𝐌𝐄𝐒𝐒𝐀𝐆𝐄 : ${q ? q : 'SANWAL 570🇵🇰'}*\n\n
      ┗━━━━━━━━ 
     `
      for (let mem of participants) {
